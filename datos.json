@@ -1,0 +1,30 @@
+{
+    "equipos": {
+        "omar": {
+            "jugadores": [
+                {
+                    "nombre": "omar",
+                    "equipo": "omar",
+                    "goles": 0,
+                    "tarjetas_amarillas": 0,
+                    "tarjetas_rojas": 0,
+                    "faltas": 0
+                }
+            ],
+            "cuerpo_tecnico": [],
+            "goles_favor": 0,
+            "goles_contra": 0,
+            "puntos": 0
+        }
+    },
+    "jugadores": [
+        {
+            "nombre": "omar",
+            "equipo": "omar",
+            "goles": 0,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0,
+            "faltas": 0
+        }
+    ]
+}
